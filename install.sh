@@ -28,6 +28,10 @@ flatpak install flathub com.spotify.Client -y
 
 flatpak install flathub io.gitlab.adhami3310.Impression
 
+# Github Desktop
+
+flatpak install flathub io.github.shiftey.Desktop -y
+
 # Telegram
 
 flatpak install flathub org.telegram.desktop -y
