@@ -4,6 +4,7 @@
 # Script de instalação do linux
 # -----------------------------
 
+
 # Atualização do sistema operacional
 sudo apt upgrade
 # ou
