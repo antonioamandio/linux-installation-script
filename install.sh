@@ -27,7 +27,7 @@ flatpak install flathub com.google.Chrome -y
 flatpak install flathub com.spotify.Client -y
 
 # Impression
-flatpak install flathub io.gitlab.adhami3310.Impression
+flatpak install flathub io.gitlab.adhami3310.Impression -y
 
 # Github Desktop
 flatpak install flathub io.github.shiftey.Desktop -y
