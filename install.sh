@@ -40,3 +40,6 @@ flatpak install flathub org.localsend.localsend_app -y
 
 # Duolingo
 flatpak install flathub ro.go.hmlendea.DL-Desktop -y
+
+# Brave
+# flatpak install flathub com.brave.Browser -y
