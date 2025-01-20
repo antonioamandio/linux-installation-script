@@ -44,9 +44,9 @@ sudo dnf upgrade
 # VScode via dnf
     # sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
     # echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" | sudo tee /etc/yum.repos.d/vscode.repo > /dev/null
-
-# dnf check-update
-# sudo dnf install code # or code-insiders
+    
+    # dnf check-update
+    # sudo dnf install code # or code-insiders
 
 # Google Chrome
 flatpak install flathub com.google.Chrome -y
@@ -71,3 +71,6 @@ flatpak install flathub ro.go.hmlendea.DL-Desktop -y
 
 # Brave
 flatpak install flathub com.brave.Browser -y
+
+# VLC
+flatpak install flathub org.videolan.VLC -y
