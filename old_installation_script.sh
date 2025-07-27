@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-echo -----------------------------
-echo Script de instalação do linux
-echo -----------------------------
+echo "-----------------------------"
+echo "Script de instalação do linux"
+echo "-----------------------------"
 
 
 # Atualização do sistema operacional
