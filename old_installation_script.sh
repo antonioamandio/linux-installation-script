@@ -1,14 +1,15 @@
 #!/bin/bash
 
-# -----------------------------
-# Script de instalação do linux
-# -----------------------------
+
+echo -----------------------------
+echo Script de instalação do linux
+echo -----------------------------
 
 
 # Atualização do sistema operacional
-sudo apt upgrade
+sudo apt update && sudo apt upgrade -y
 # ou
-sudo dnf upgrade
+sudo dnf update && sudo dnf upgrade -y
 
 
 # Instalção dos principais apps
@@ -48,6 +49,9 @@ sudo dnf upgrade
     # dnf check-update
     # sudo dnf install code # or code-insiders
 
+# Brave
+flatpak install flathub com.brave.Browser -y
+
 # Google Chrome
 flatpak install flathub com.google.Chrome -y
 
@@ -60,17 +64,11 @@ flatpak install flathub io.gitlab.adhami3310.Impression -y
 # Github Desktop
 flatpak install flathub io.github.shiftey.Desktop -y
 
-# Telegram
-# flatpak install flathub org.telegram.desktop -y
-
 # LocalSend
 flatpak install flathub org.localsend.localsend_app -y
 
 # Duolingo
 flatpak install flathub ro.go.hmlendea.DL-Desktop -y
-
-# Brave
-flatpak install flathub com.brave.Browser -y
 
 # VLC
 flatpak install flathub org.videolan.VLC -y
@@ -79,7 +77,16 @@ flatpak install flathub org.videolan.VLC -y
 flatpak install flathub com.slack.Slack -y
 
 # HTTPie
-# flatpak install flathub io.httpie.Httpie -y
+flatpak install flathub io.httpie.Httpie -y
+
+# Antares SQL
+flatpak install flathub it.fabiodistasio.AntaresSQL -y
+
+# Todoist
+flatpak install flathub com.todoist.Todoist -y
 
 # Android Studio
 # flatpak install flathub com.google.AndroidStudio -y
+
+# Telegram
+# flatpak install flathub org.telegram.desktop -y
