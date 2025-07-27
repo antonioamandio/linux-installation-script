@@ -84,3 +84,11 @@ Sinta-se à vontade para adaptar o script às tuas necessidades!
 
 Ideias, melhorias ou problemas?
 Abre uma [issue](https://github.com/antonioamandio/linux-installation-script/issues) ou faz um [pull request](https://github.com/antonioamandio/linux-installation-script/pulls). Toda contribuição é bem-vinda!
+
+---
+
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/antonioamandio)
+
+[![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio__amandio/)
