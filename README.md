@@ -90,5 +90,4 @@ Abre uma [issue](https://github.com/antonioamandio/linux-installation-script/iss
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/antonioamandio)
-
 [![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio__amandio/)
